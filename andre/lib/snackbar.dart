@@ -1,5 +1,6 @@
-import 'package:arif/dialog.dart';
+import 'package:andre/dialog.dart';
 import 'package:flutter/material.dart';
+
 void main(){
   runApp(MyApp());
 }
