@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
               SizedBox(height: 10),
               Text(
-                "Selamat Datang\nAndre Wahyu Alvian (4122022) - Kelas A",
+                "Selamat Datang\nAkhul Adib Islamuddin (4122006) - Kelas A",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16, color: Colors.deepOrange),
               ),

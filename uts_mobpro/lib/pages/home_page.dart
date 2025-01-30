@@ -78,7 +78,7 @@ class HomeContent extends StatelessWidget {
         children: [
           SizedBox(height: 20),
           Text(
-            "Halo, Andre!",
+            "Halo, Akhul!",
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           Text(
